@@ -1,4 +1,4 @@
-📊 ADECCO HR Analytics Dashboard (Excel)
+ ADECCO HR Analytics Dashboard (Excel)
  Project Overview
 
 The ADECCO HR Analytics Dashboard is an interactive Microsoft Excel dashboard designed to analyze employee data and provide actionable HR insights. The dashboard helps HR professionals monitor workforce trends, employee attrition, demographics, and job-related metrics using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
