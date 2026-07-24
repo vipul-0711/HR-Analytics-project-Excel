@@ -82,5 +82,6 @@ Microsoft Excel
 Pivot Tables & Pivot Charts
 KPI Reporting
 📷 Dashboard Preview
-<img width="1917" height="1018" alt="Screenshot 2026-07-23 214125" src="https://github.com/user-attachments/assets/9bfeff78-3b11-438c-be74-2fe71a498a4b" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/ae659688-6769-41c6-9a71-191f09cbd498" />
+
 
